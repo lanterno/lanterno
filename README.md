@@ -1,5 +1,19 @@
 <h2 align="left">Hi 👋! Ahmed here.. A Research Software Engineer, and a Python veteran.</h2>
 
+You can see the different projects I work on on this profile.
+
+Currently, the most interesting ones are for 
+- My work for the Center For Digital Trust @ EPFL -> https://github.com/c4dt
+  - Including my latest [workshop on E-ID](https://github.com/c4dt/how-2025-06-eID) in Switzerland 
+- I also manage and lead the rewrite of the open source
+  Palaeographic annotation project (Archetype) at -> https://github.com/archetype-pal
+
+When I'm not working on either, I might be checking out the new courses on Edx or Coursera.  
+Or tinkering on one my side project
+ - https://github.com/lanterno/beats
+ - https://github.com/lanterno/ocw-tracker (a revamp of this is coming soon) 
+
+
 ###
 
 <div align="center">
