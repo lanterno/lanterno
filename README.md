@@ -13,6 +13,8 @@ Or tinkering on one my side project
  - https://github.com/lanterno/beats
  - https://github.com/lanterno/ocw-tracker (a revamp of this is coming soon) 
 
+Want to hire me? Check out my [resume](https://resume.elghareeb.space/index.html) for contact info 
+
 
 ###
 
