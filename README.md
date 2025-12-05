@@ -1,7 +1,5 @@
 <div align="center">
 
-# Ahmed Elghareeb
-
 **Senior Software Engineer** · **Climate Fellow** · **Digital Identity Specialist**
 
 [![Location](https://img.shields.io/badge/📍_Lausanne,_Switzerland-1a1a2e?style=flat)](https://www.google.com/maps/place/Lausanne)
@@ -12,9 +10,7 @@
 
 ---
 
-### 👋 About
-
-I'm a software engineer with **8+ years** of experience building robust, scalable systems. Currently at **[EPFL's Center for Digital Trust (C4DT)](https://github.com/c4dt)**, I work on **digital identity infrastructure** for Switzerland — experimenting with cutting-edge standards for digital wallets, verifiable credentials, and decentralized identity.
+I'm a software engineer with **11+ years** of experience building robust, scalable systems. Currently at **[EPFL's Center for Digital Trust (C4DT)](https://github.com/c4dt)**, I work on **digital identity infrastructure** for Switzerland — experimenting with cutting-edge standards for digital wallets, verifiable credentials, and decentralized identity.
 
 Beyond code, I'm passionate about **space sustainability**, **climate tech**. As a **Climatebase Fellow (Cohort 6)**, I explored the intersection of technology and sustainability in energy, transportation, and agriculture.
 
@@ -118,8 +114,6 @@ When I'm not working on identity or climate, I'm probably:
 ---
 
 <div align="center">
-
-### 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lanterno&theme=github_dark" alt="profile details" />
 
