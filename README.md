@@ -121,15 +121,9 @@ When I'm not working on identity or climate, I'm probably:
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lanterno&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lanterno&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lanterno&theme=github_dark" alt="profile details" />
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanterno/lanterno/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanterno/lanterno/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/lanterno/lanterno/output/snake-dark.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lanterno&theme=github_dark" height="150" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lanterno&theme=github_dark" height="150" alt="most commit language" />
 
 </div>
