@@ -41,33 +41,26 @@ Beyond code, I'm passionate about **space sustainability**, **climate tech**. As
 
 ### 🛠 Technical Toolkit
 
-<table width="100%">
+<table>
 <tr>
   <td width="25%" valign="top">
     <strong>Languages</strong><br><br>
-    Python<br>
-    TypeScript<br>
-    Rust
+    Python · TypeScript · Rust
+    <br><br><br>
   </td>
   <td width="25%" valign="top">
     <strong>Backend & Data</strong><br><br>
-    Django<br>
-    PostgreSQL<br>
-    GraphQL<br>
-    Celery
+    Django · PostgreSQL · GraphQL · Celery
+    <br><br><br>
   </td>
   <td width="25%" valign="top">
     <strong>Infrastructure</strong><br><br>
-    Docker<br>
-    AWS<br>
-    GCP<br>
-    Terraform
+    Docker · AWS · GCP · Terraform
+    <br><br><br>
   </td>
   <td width="25%" valign="top">
     <strong>Cryptography</strong><br><br>
-    Verifiable Credentials<br>
-    Zero-Knowledge<br>
-    Digital Signatures
+    Verifiable Credentials · Zero-Knowledge · Digital Signatures
   </td>
 </tr>
 </table>
