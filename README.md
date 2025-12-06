@@ -10,7 +10,7 @@
 
 ---
 
-I'm a software engineer with **11+ years** of experience building robust, scalable systems. Currently at **[EPFL's Center for Digital Trust (C4DT)](https://github.com/c4dt)**, I work on **digital identity infrastructure** for Switzerland — experimenting with cutting-edge standards for digital wallets, verifiable credentials, and decentralized identity.
+**11+ years** of experience building robust, scalable systems. Currently at **[EPFL's Center for Digital Trust (C4DT)](https://github.com/c4dt)**, I work on **digital identity infrastructure** for Switzerland — experimenting with cutting-edge standards for digital wallets, verifiable credentials, and decentralized identity.
 
 Beyond code, I'm passionate about **space sustainability**, **climate tech**. As a **Climatebase Fellow (Cohort 6)**, I explored the intersection of technology and sustainability in energy, transportation, and agriculture.
 
@@ -41,7 +41,7 @@ Beyond code, I'm passionate about **space sustainability**, **climate tech**. As
 
 ### 🛠 Technical Toolkit
 
-<table>
+<table width="100%">
 <tr>
   <td width="25%" valign="top">
     <strong>Languages</strong><br><br>
@@ -85,7 +85,7 @@ Beyond code, I'm passionate about **space sustainability**, **climate tech**. As
 
 ---
 
-### 📚 Background
+### 📚 Developing Curiousity...
 
 **Education**
 - 🎓 **EPFL** Random courses while I work as a research at EPFL *(2023-2026)*
@@ -97,22 +97,6 @@ Beyond code, I'm passionate about **space sustainability**, **climate tech**. As
 - 🛡️ AI Safety, Ethics & Society — *Center for AI Safety*
 - 🚀 Introduction to Aerospace Engineering — *MIT edX*
 
-**Journey**
-- **C4DT @ EPFL** — Digital Identity Infrastructure *(2023–Present)*
-- **Climatebase** — Climate Fellow, Cohort 6 *(2024)*
-- **KiWi** — ML-powered platform scaling *(2021–2022)*
-- **Back Market** — Europe's leading refurbished tech marketplace *(2019–2021)*
-
----
-
-### 🧪 Side Projects
-
-When I'm not working on identity or climate, I'm probably:
-- 📖 Taking courses on [edX](https://www.edx.org/) or [Coursera](https://www.coursera.org/)
-- 🎵 Building [beats](https://github.com/lanterno/beats) — a music project
-- 📚 Revamping [ocw-tracker](https://github.com/lanterno/ocw-tracker) — open courseware tracking
-
----
 
 <div align="center">
 
