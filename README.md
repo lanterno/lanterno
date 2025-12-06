@@ -93,6 +93,7 @@ Beyond code, I'm passionate about **space sustainability**, **climate tech**. As
 - 🎓 **Mansoura University** — B.Eng. Computer Engineering *(2011–2016)*
 
 **Recent Certifications**
+- 🌍 Climatebase Fellow, Cohort 6 — *Climatebase*
 - 🛡️ AI Safety, Ethics & Society — *Center for AI Safety*
 - 🚀 Introduction to Aerospace Engineering — *MIT edX*
 
